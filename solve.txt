@@ -1,0 +1,5 @@
+1-https://stackoverflow.com/questions/14200259/how-can-i-solve-r-layout-main-cannot-be-resolved-in-my-android-apps
+
+2- https://www.digitbin.com/blog/2020/03/30/app-not-installed-fix-error/
+
+3- https://stackoverflow.com/questions/218384/what-is-a-nullpointerexception-and-how-do-i-fix-it
